@@ -22,8 +22,8 @@ title: ACTIVIDAD 2
 email: eunicejardinezm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tutorial de una tecnología/framework: React
-baseurl: "tutorial-react" # the subpath of your site, e.g. /blog
-url: "https://eunicejardinez.github.io/tutorial-react/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/tutorial-react" # the subpath of your site, e.g. /blog
+url: "https://eunicejardinez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eunicejardinez
 github_username:  EuniceJardinez
 
